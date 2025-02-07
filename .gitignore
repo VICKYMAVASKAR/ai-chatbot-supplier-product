@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+
+# Ignore database files
+database/*.sql
+
+# Ignore environment variables
+.env
